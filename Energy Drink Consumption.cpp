@@ -7,14 +7,14 @@ int main()
 {
 	// set variables
 	int customers = 16500;
-	float surveyPercent = 0.15, citrisPercent = 0.58;
+	float surveyPercent = 0.15, citrusPercent = 0.58;
 
 	// calculate customer purchases
 	float oneOrMore = customers * surveyPercent;
-	float preferCitris = customers * citrisPercent;
+	float preferCitrus = customers * citrusPercent;
 
 	// Display the results
 	cout << "The number of customers who buy one or more energy drinks per week is " << oneOrMore << " \n";
-	cout << "The number of customers who prefer citris flaovered energy drinks is " << preferCitris << " \n";
+	cout << "The number of customers who prefer citrus flavored energy drinks is " << preferCitrus << " \n";
 	return 0;
 }
