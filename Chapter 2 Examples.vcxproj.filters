@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter 2 Examples.cpp">
+    <ClCompile Include="Energy Drink Consumption.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
