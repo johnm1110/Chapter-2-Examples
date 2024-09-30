@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\john\\OneDrive\\Documents\\0 - My Documents\\Education\\TNCC\\2024 Fall\\CSC 222\\programs\\Ingredient Adjuster\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C34F4B9C-F21C-4ACC-91B4-FBC1FEF2D358}|Ingredient Adjuster.vcxproj|C:\\Users\\john\\OneDrive\\Documents\\0 - My Documents\\Education\\TNCC\\2024 Fall\\CSC 222\\programs\\Ingredient Adjuster\\Ingredient Adjuster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C34F4B9C-F21C-4ACC-91B4-FBC1FEF2D358}|Ingredient Adjuster.vcxproj|solutionrelative:Ingredient Adjuster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ingredient Adjuster.cpp",
+              "DocumentMoniker": "C:\\Users\\john\\OneDrive\\Documents\\0 - My Documents\\Education\\TNCC\\2024 Fall\\CSC 222\\programs\\Ingredient Adjuster\\Ingredient Adjuster.cpp",
+              "RelativeDocumentMoniker": "Ingredient Adjuster.cpp",
+              "ToolTip": "C:\\Users\\john\\OneDrive\\Documents\\0 - My Documents\\Education\\TNCC\\2024 Fall\\CSC 222\\programs\\Ingredient Adjuster\\Ingredient Adjuster.cpp",
+              "RelativeToolTip": "Ingredient Adjuster.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-18T23:36:52.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
