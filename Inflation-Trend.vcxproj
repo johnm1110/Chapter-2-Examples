@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{41640768-09c9-4253-9aa8-ffff4b3e9635}</ProjectGuid>
-    <RootNamespace>Chapter2Examples</RootNamespace>
+    <ProjectGuid>{2ce8385a-790c-4588-9a10-e18af4e4f869}</ProjectGuid>
+    <RootNamespace>InflationTrend</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter 2 Examples.cpp" />
+    <ClCompile Include="Inflation-Trend.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
